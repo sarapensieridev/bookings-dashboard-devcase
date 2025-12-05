@@ -2,1051 +2,1051 @@
   {
     "bookingId": "ID-1",
     "guestId": "g1",
-    "checkIn": "2025-01-02",
-    "checkOut": "2025-01-07",
+    "checkIn": "2025-11-06",
+    "checkOut": "2025-11-11",
     "guestsNumber": 2
   },
   {
     "bookingId": "ID-2",
     "guestId": "g1",
-    "checkIn": "2025-01-03",
-    "checkOut": "2025-01-08",
+    "checkIn": "2025-11-07",
+    "checkOut": "2025-11-12",
     "guestsNumber": 1
   },
   {
     "bookingId": "ID-3",
     "guestId": "g1",
-    "checkIn": "2025-01-04",
-    "checkOut": "2025-01-09",
+    "checkIn": "2025-11-08",
+    "checkOut": "2025-11-13",
     "guestsNumber": 3
   },
   {
     "bookingId": "ID-4",
     "guestId": "g2",
-    "checkIn": "2025-01-05",
-    "checkOut": "2025-01-10",
+    "checkIn": "2025-11-09",
+    "checkOut": "2025-11-14",
     "guestsNumber": 2
   },
   {
     "bookingId": "ID-5",
     "guestId": "g2",
-    "checkIn": "2025-01-06",
-    "checkOut": "2025-01-11",
+    "checkIn": "2025-11-10",
+    "checkOut": "2025-11-15",
     "guestsNumber": 2
   },
   {
     "bookingId": "ID-6",
     "guestId": "g2",
-    "checkIn": "2025-01-07",
-    "checkOut": "2025-01-12",
-    "guestsNumber": 2
+    "checkIn": "2025-11-11",
+    "checkOut": "2025-11-16",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-7",
     "guestId": "g3",
-    "checkIn": "2025-01-08",
-    "checkOut": "2025-01-13",
-    "guestsNumber": 4
+    "checkIn": "2025-11-12",
+    "checkOut": "2025-11-17",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-8",
     "guestId": "g3",
-    "checkIn": "2025-01-09",
-    "checkOut": "2025-01-14",
-    "guestsNumber": 3
+    "checkIn": "2025-11-13",
+    "checkOut": "2025-11-18",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-9",
     "guestId": "g3",
-    "checkIn": "2025-01-10",
-    "checkOut": "2025-01-15",
-    "guestsNumber": 4
+    "checkIn": "2025-11-14",
+    "checkOut": "2025-11-19",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-10",
     "guestId": "g4",
-    "checkIn": "2025-01-11",
-    "checkOut": "2025-01-16",
-    "guestsNumber": 1
+    "checkIn": "2025-11-15",
+    "checkOut": "2025-11-20",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-11",
     "guestId": "g4",
-    "checkIn": "2025-01-12",
-    "checkOut": "2025-01-17",
-    "guestsNumber": 4
+    "checkIn": "2025-11-16",
+    "checkOut": "2025-11-21",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-12",
     "guestId": "g4",
-    "checkIn": "2025-01-13",
-    "checkOut": "2025-01-18",
-    "guestsNumber": 3
+    "checkIn": "2025-11-17",
+    "checkOut": "2025-11-22",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-13",
     "guestId": "g5",
-    "checkIn": "2025-01-14",
-    "checkOut": "2025-01-19",
-    "guestsNumber": 4
+    "checkIn": "2025-11-18",
+    "checkOut": "2025-11-23",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-14",
     "guestId": "g5",
-    "checkIn": "2025-01-15",
-    "checkOut": "2025-01-20",
-    "guestsNumber": 2
+    "checkIn": "2025-11-19",
+    "checkOut": "2025-11-24",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-15",
     "guestId": "g5",
-    "checkIn": "2025-01-16",
-    "checkOut": "2025-01-21",
-    "guestsNumber": 4
+    "checkIn": "2025-11-20",
+    "checkOut": "2025-11-25",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-16",
     "guestId": "g6",
-    "checkIn": "2025-01-17",
-    "checkOut": "2025-01-22",
+    "checkIn": "2025-11-21",
+    "checkOut": "2025-11-26",
     "guestsNumber": 2
   },
   {
     "bookingId": "ID-17",
     "guestId": "g6",
-    "checkIn": "2025-01-18",
-    "checkOut": "2025-01-23",
-    "guestsNumber": 4
+    "checkIn": "2025-11-22",
+    "checkOut": "2025-11-27",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-18",
     "guestId": "g6",
-    "checkIn": "2025-01-19",
-    "checkOut": "2025-01-24",
+    "checkIn": "2025-11-23",
+    "checkOut": "2025-11-28",
     "guestsNumber": 1
   },
   {
     "bookingId": "ID-19",
     "guestId": "g7",
-    "checkIn": "2025-01-20",
-    "checkOut": "2025-01-25",
-    "guestsNumber": 3
+    "checkIn": "2025-11-24",
+    "checkOut": "2025-11-29",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-20",
     "guestId": "g7",
-    "checkIn": "2025-01-21",
-    "checkOut": "2025-01-26",
-    "guestsNumber": 1
+    "checkIn": "2025-11-25",
+    "checkOut": "2025-11-30",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-21",
     "guestId": "g7",
-    "checkIn": "2025-01-22",
-    "checkOut": "2025-01-27",
-    "guestsNumber": 4
+    "checkIn": "2025-11-26",
+    "checkOut": "2025-12-01",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-22",
     "guestId": "g8",
-    "checkIn": "2025-01-23",
-    "checkOut": "2025-01-28",
+    "checkIn": "2025-11-27",
+    "checkOut": "2025-12-02",
     "guestsNumber": 4
   },
   {
     "bookingId": "ID-23",
     "guestId": "g8",
-    "checkIn": "2025-01-24",
-    "checkOut": "2025-01-29",
-    "guestsNumber": 3
+    "checkIn": "2025-11-28",
+    "checkOut": "2025-12-03",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-24",
     "guestId": "g8",
-    "checkIn": "2025-01-25",
-    "checkOut": "2025-01-30",
-    "guestsNumber": 2
+    "checkIn": "2025-11-29",
+    "checkOut": "2025-12-04",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-25",
     "guestId": "g9",
-    "checkIn": "2025-01-26",
-    "checkOut": "2025-01-31",
-    "guestsNumber": 3
+    "checkIn": "2025-11-30",
+    "checkOut": "2025-12-05",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-26",
     "guestId": "g9",
-    "checkIn": "2025-01-27",
-    "checkOut": "2025-01-32",
-    "guestsNumber": 4
+    "checkIn": "2025-12-01",
+    "checkOut": "2025-12-06",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-27",
     "guestId": "g9",
-    "checkIn": "2025-01-28",
-    "checkOut": "2025-01-33",
-    "guestsNumber": 3
+    "checkIn": "2025-12-02",
+    "checkOut": "2025-12-07",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-28",
     "guestId": "g10",
-    "checkIn": "2025-01-01",
-    "checkOut": "2025-01-06",
-    "guestsNumber": 2
+    "checkIn": "2025-12-03",
+    "checkOut": "2025-12-08",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-29",
     "guestId": "g10",
-    "checkIn": "2025-01-02",
-    "checkOut": "2025-01-07",
-    "guestsNumber": 1
+    "checkIn": "2025-12-04",
+    "checkOut": "2025-12-09",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-30",
     "guestId": "g10",
-    "checkIn": "2025-02-03",
-    "checkOut": "2025-02-08",
-    "guestsNumber": 3
+    "checkIn": "2025-12-05",
+    "checkOut": "2025-12-10",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-31",
     "guestId": "g11",
-    "checkIn": "2025-02-04",
-    "checkOut": "2025-02-09",
+    "checkIn": "2025-12-06",
+    "checkOut": "2025-12-11",
     "guestsNumber": 4
   },
   {
     "bookingId": "ID-32",
     "guestId": "g11",
-    "checkIn": "2025-02-05",
-    "checkOut": "2025-02-10",
-    "guestsNumber": 4
+    "checkIn": "2025-12-07",
+    "checkOut": "2025-12-12",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-33",
     "guestId": "g11",
-    "checkIn": "2025-02-06",
-    "checkOut": "2025-02-11",
-    "guestsNumber": 2
+    "checkIn": "2025-12-08",
+    "checkOut": "2025-12-13",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-34",
     "guestId": "g12",
-    "checkIn": "2025-02-07",
-    "checkOut": "2025-02-12",
-    "guestsNumber": 1
+    "checkIn": "2025-12-09",
+    "checkOut": "2025-12-14",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-35",
     "guestId": "g12",
-    "checkIn": "2025-02-08",
-    "checkOut": "2025-02-13",
-    "guestsNumber": 4
+    "checkIn": "2025-12-10",
+    "checkOut": "2025-12-15",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-36",
     "guestId": "g12",
-    "checkIn": "2025-02-09",
-    "checkOut": "2025-02-14",
-    "guestsNumber": 1
+    "checkIn": "2025-12-11",
+    "checkOut": "2025-12-16",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-37",
     "guestId": "g13",
-    "checkIn": "2025-02-10",
-    "checkOut": "2025-02-15",
-    "guestsNumber": 4
+    "checkIn": "2025-12-12",
+    "checkOut": "2025-12-17",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-38",
     "guestId": "g13",
-    "checkIn": "2025-02-11",
-    "checkOut": "2025-02-16",
-    "guestsNumber": 4
+    "checkIn": "2025-12-13",
+    "checkOut": "2025-12-18",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-39",
     "guestId": "g13",
-    "checkIn": "2025-02-12",
-    "checkOut": "2025-02-17",
-    "guestsNumber": 3
+    "checkIn": "2025-12-14",
+    "checkOut": "2025-12-19",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-40",
     "guestId": "g14",
-    "checkIn": "2025-02-13",
-    "checkOut": "2025-02-18",
+    "checkIn": "2025-12-15",
+    "checkOut": "2025-12-20",
     "guestsNumber": 3
   },
   {
     "bookingId": "ID-41",
     "guestId": "g14",
-    "checkIn": "2025-02-14",
-    "checkOut": "2025-02-19",
-    "guestsNumber": 4
+    "checkIn": "2025-12-16",
+    "checkOut": "2025-12-21",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-42",
     "guestId": "g14",
-    "checkIn": "2025-02-15",
-    "checkOut": "2025-02-20",
+    "checkIn": "2025-12-17",
+    "checkOut": "2025-12-22",
     "guestsNumber": 4
   },
   {
     "bookingId": "ID-43",
     "guestId": "g15",
-    "checkIn": "2025-02-16",
-    "checkOut": "2025-02-21",
+    "checkIn": "2025-12-18",
+    "checkOut": "2025-12-23",
     "guestsNumber": 3
   },
   {
     "bookingId": "ID-44",
     "guestId": "g15",
-    "checkIn": "2025-02-17",
-    "checkOut": "2025-02-22",
-    "guestsNumber": 3
+    "checkIn": "2025-12-19",
+    "checkOut": "2025-12-24",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-45",
     "guestId": "g15",
-    "checkIn": "2025-02-18",
-    "checkOut": "2025-02-23",
-    "guestsNumber": 1
+    "checkIn": "2025-12-20",
+    "checkOut": "2025-12-25",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-46",
     "guestId": "g16",
-    "checkIn": "2025-02-19",
-    "checkOut": "2025-02-24",
-    "guestsNumber": 4
+    "checkIn": "2025-12-21",
+    "checkOut": "2025-12-26",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-47",
     "guestId": "g16",
-    "checkIn": "2025-02-20",
-    "checkOut": "2025-02-25",
+    "checkIn": "2025-12-22",
+    "checkOut": "2025-12-27",
     "guestsNumber": 4
   },
   {
     "bookingId": "ID-48",
     "guestId": "g16",
-    "checkIn": "2025-02-21",
-    "checkOut": "2025-02-26",
-    "guestsNumber": 2
+    "checkIn": "2025-12-23",
+    "checkOut": "2025-12-28",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-49",
     "guestId": "g17",
-    "checkIn": "2025-02-22",
-    "checkOut": "2025-02-27",
+    "checkIn": "2025-12-24",
+    "checkOut": "2025-12-29",
     "guestsNumber": 3
   },
   {
     "bookingId": "ID-50",
     "guestId": "g17",
-    "checkIn": "2025-02-23",
-    "checkOut": "2025-02-28",
-    "guestsNumber": 3
+    "checkIn": "2025-12-25",
+    "checkOut": "2025-12-30",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-51",
     "guestId": "g17",
-    "checkIn": "2025-02-24",
-    "checkOut": "2025-02-29",
-    "guestsNumber": 1
+    "checkIn": "2025-12-26",
+    "checkOut": "2025-12-31",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-52",
     "guestId": "g18",
-    "checkIn": "2025-02-25",
-    "checkOut": "2025-02-30",
+    "checkIn": "2025-12-27",
+    "checkOut": "2026-01-01",
     "guestsNumber": 1
   },
   {
     "bookingId": "ID-53",
     "guestId": "g18",
-    "checkIn": "2025-02-26",
-    "checkOut": "2025-02-31",
+    "checkIn": "2025-12-28",
+    "checkOut": "2026-01-02",
     "guestsNumber": 3
   },
   {
     "bookingId": "ID-54",
     "guestId": "g18",
-    "checkIn": "2025-02-27",
-    "checkOut": "2025-02-32",
-    "guestsNumber": 2
+    "checkIn": "2025-12-29",
+    "checkOut": "2026-01-03",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-55",
     "guestId": "g19",
-    "checkIn": "2025-02-28",
-    "checkOut": "2025-02-33",
-    "guestsNumber": 3
+    "checkIn": "2025-12-30",
+    "checkOut": "2026-01-04",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-56",
     "guestId": "g19",
-    "checkIn": "2025-02-01",
-    "checkOut": "2025-02-06",
+    "checkIn": "2025-12-31",
+    "checkOut": "2026-01-05",
     "guestsNumber": 4
   },
   {
     "bookingId": "ID-57",
     "guestId": "g19",
-    "checkIn": "2025-02-02",
-    "checkOut": "2025-02-07",
-    "guestsNumber": 1
+    "checkIn": "2026-01-01",
+    "checkOut": "2026-01-06",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-58",
     "guestId": "g20",
-    "checkIn": "2025-02-03",
-    "checkOut": "2025-02-08",
-    "guestsNumber": 2
+    "checkIn": "2026-01-02",
+    "checkOut": "2026-01-07",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-59",
     "guestId": "g20",
-    "checkIn": "2025-02-04",
-    "checkOut": "2025-02-09",
-    "guestsNumber": 2
+    "checkIn": "2026-01-03",
+    "checkOut": "2026-01-08",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-60",
     "guestId": "g20",
-    "checkIn": "2025-03-05",
-    "checkOut": "2025-03-10",
-    "guestsNumber": 4
+    "checkIn": "2025-11-05",
+    "checkOut": "2025-11-10",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-61",
     "guestId": "g21",
-    "checkIn": "2025-03-06",
-    "checkOut": "2025-03-11",
-    "guestsNumber": 4
+    "checkIn": "2025-11-06",
+    "checkOut": "2025-11-11",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-62",
     "guestId": "g21",
-    "checkIn": "2025-03-07",
-    "checkOut": "2025-03-12",
-    "guestsNumber": 4
+    "checkIn": "2025-11-07",
+    "checkOut": "2025-11-12",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-63",
     "guestId": "g21",
-    "checkIn": "2025-03-08",
-    "checkOut": "2025-03-13",
+    "checkIn": "2025-11-08",
+    "checkOut": "2025-11-13",
     "guestsNumber": 4
   },
   {
     "bookingId": "ID-64",
     "guestId": "g22",
-    "checkIn": "2025-03-09",
-    "checkOut": "2025-03-14",
-    "guestsNumber": 2
+    "checkIn": "2025-11-09",
+    "checkOut": "2025-11-14",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-65",
     "guestId": "g22",
-    "checkIn": "2025-03-10",
-    "checkOut": "2025-03-15",
-    "guestsNumber": 3
+    "checkIn": "2025-11-10",
+    "checkOut": "2025-11-15",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-66",
     "guestId": "g22",
-    "checkIn": "2025-03-11",
-    "checkOut": "2025-03-16",
-    "guestsNumber": 2
+    "checkIn": "2025-11-11",
+    "checkOut": "2025-11-16",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-67",
     "guestId": "g23",
-    "checkIn": "2025-03-12",
-    "checkOut": "2025-03-17",
+    "checkIn": "2025-11-12",
+    "checkOut": "2025-11-17",
     "guestsNumber": 1
   },
   {
     "bookingId": "ID-68",
     "guestId": "g23",
-    "checkIn": "2025-03-13",
-    "checkOut": "2025-03-18",
-    "guestsNumber": 2
+    "checkIn": "2025-11-13",
+    "checkOut": "2025-11-18",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-69",
     "guestId": "g23",
-    "checkIn": "2025-03-14",
-    "checkOut": "2025-03-19",
+    "checkIn": "2025-11-14",
+    "checkOut": "2025-11-19",
     "guestsNumber": 4
   },
   {
     "bookingId": "ID-70",
     "guestId": "g24",
-    "checkIn": "2025-03-15",
-    "checkOut": "2025-03-20",
-    "guestsNumber": 1
+    "checkIn": "2025-11-15",
+    "checkOut": "2025-11-20",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-71",
     "guestId": "g24",
-    "checkIn": "2025-03-16",
-    "checkOut": "2025-03-21",
-    "guestsNumber": 4
+    "checkIn": "2025-11-16",
+    "checkOut": "2025-11-21",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-72",
     "guestId": "g24",
-    "checkIn": "2025-03-17",
-    "checkOut": "2025-03-22",
-    "guestsNumber": 3
+    "checkIn": "2025-11-17",
+    "checkOut": "2025-11-22",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-73",
     "guestId": "g25",
-    "checkIn": "2025-03-18",
-    "checkOut": "2025-03-23",
+    "checkIn": "2025-11-18",
+    "checkOut": "2025-11-23",
     "guestsNumber": 3
   },
   {
     "bookingId": "ID-74",
     "guestId": "g25",
-    "checkIn": "2025-03-19",
-    "checkOut": "2025-03-24",
-    "guestsNumber": 3
+    "checkIn": "2025-11-19",
+    "checkOut": "2025-11-24",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-75",
     "guestId": "g25",
-    "checkIn": "2025-03-20",
-    "checkOut": "2025-03-25",
-    "guestsNumber": 2
+    "checkIn": "2025-11-20",
+    "checkOut": "2025-11-25",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-76",
     "guestId": "g26",
-    "checkIn": "2025-03-21",
-    "checkOut": "2025-03-26",
+    "checkIn": "2025-11-21",
+    "checkOut": "2025-11-26",
     "guestsNumber": 2
   },
   {
     "bookingId": "ID-77",
     "guestId": "g26",
-    "checkIn": "2025-03-22",
-    "checkOut": "2025-03-27",
-    "guestsNumber": 3
+    "checkIn": "2025-11-22",
+    "checkOut": "2025-11-27",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-78",
     "guestId": "g26",
-    "checkIn": "2025-03-23",
-    "checkOut": "2025-03-28",
-    "guestsNumber": 2
+    "checkIn": "2025-11-23",
+    "checkOut": "2025-11-28",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-79",
     "guestId": "g27",
-    "checkIn": "2025-03-24",
-    "checkOut": "2025-03-29",
-    "guestsNumber": 3
+    "checkIn": "2025-11-24",
+    "checkOut": "2025-11-29",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-80",
     "guestId": "g27",
-    "checkIn": "2025-03-25",
-    "checkOut": "2025-03-30",
-    "guestsNumber": 4
+    "checkIn": "2025-11-25",
+    "checkOut": "2025-11-30",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-81",
     "guestId": "g27",
-    "checkIn": "2025-03-26",
-    "checkOut": "2025-03-31",
-    "guestsNumber": 4
+    "checkIn": "2025-11-26",
+    "checkOut": "2025-12-01",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-82",
     "guestId": "g28",
-    "checkIn": "2025-03-27",
-    "checkOut": "2025-03-32",
-    "guestsNumber": 3
+    "checkIn": "2025-11-27",
+    "checkOut": "2025-12-02",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-83",
     "guestId": "g28",
-    "checkIn": "2025-03-28",
-    "checkOut": "2025-03-33",
-    "guestsNumber": 1
+    "checkIn": "2025-11-28",
+    "checkOut": "2025-12-03",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-84",
     "guestId": "g28",
-    "checkIn": "2025-03-01",
-    "checkOut": "2025-03-06",
-    "guestsNumber": 3
+    "checkIn": "2025-11-29",
+    "checkOut": "2025-12-04",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-85",
     "guestId": "g29",
-    "checkIn": "2025-03-02",
-    "checkOut": "2025-03-07",
+    "checkIn": "2025-11-30",
+    "checkOut": "2025-12-05",
     "guestsNumber": 3
   },
   {
     "bookingId": "ID-86",
     "guestId": "g29",
-    "checkIn": "2025-03-03",
-    "checkOut": "2025-03-08",
-    "guestsNumber": 1
+    "checkIn": "2025-12-01",
+    "checkOut": "2025-12-06",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-87",
     "guestId": "g29",
-    "checkIn": "2025-03-04",
-    "checkOut": "2025-03-09",
-    "guestsNumber": 4
+    "checkIn": "2025-12-02",
+    "checkOut": "2025-12-07",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-88",
     "guestId": "g30",
-    "checkIn": "2025-03-05",
-    "checkOut": "2025-03-10",
-    "guestsNumber": 3
+    "checkIn": "2025-12-03",
+    "checkOut": "2025-12-08",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-89",
     "guestId": "g30",
-    "checkIn": "2025-03-06",
-    "checkOut": "2025-03-11",
+    "checkIn": "2025-12-04",
+    "checkOut": "2025-12-09",
     "guestsNumber": 2
   },
   {
     "bookingId": "ID-90",
     "guestId": "g30",
-    "checkIn": "2025-04-07",
-    "checkOut": "2025-04-12",
-    "guestsNumber": 3
+    "checkIn": "2025-12-05",
+    "checkOut": "2025-12-10",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-91",
     "guestId": "g31",
-    "checkIn": "2025-04-08",
-    "checkOut": "2025-04-13",
+    "checkIn": "2025-12-06",
+    "checkOut": "2025-12-11",
     "guestsNumber": 4
   },
   {
     "bookingId": "ID-92",
     "guestId": "g31",
-    "checkIn": "2025-04-09",
-    "checkOut": "2025-04-14",
-    "guestsNumber": 4
+    "checkIn": "2025-12-07",
+    "checkOut": "2025-12-12",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-93",
     "guestId": "g31",
-    "checkIn": "2025-04-10",
-    "checkOut": "2025-04-15",
-    "guestsNumber": 1
+    "checkIn": "2025-12-08",
+    "checkOut": "2025-12-13",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-94",
     "guestId": "g32",
-    "checkIn": "2025-04-11",
-    "checkOut": "2025-04-16",
-    "guestsNumber": 3
+    "checkIn": "2025-12-09",
+    "checkOut": "2025-12-14",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-95",
     "guestId": "g32",
-    "checkIn": "2025-04-12",
-    "checkOut": "2025-04-17",
-    "guestsNumber": 1
+    "checkIn": "2025-12-10",
+    "checkOut": "2025-12-15",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-96",
     "guestId": "g32",
-    "checkIn": "2025-04-13",
-    "checkOut": "2025-04-18",
-    "guestsNumber": 2
+    "checkIn": "2025-12-11",
+    "checkOut": "2025-12-16",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-97",
     "guestId": "g33",
-    "checkIn": "2025-04-14",
-    "checkOut": "2025-04-19",
-    "guestsNumber": 1
+    "checkIn": "2025-12-12",
+    "checkOut": "2025-12-17",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-98",
     "guestId": "g33",
-    "checkIn": "2025-04-15",
-    "checkOut": "2025-04-20",
-    "guestsNumber": 3
+    "checkIn": "2025-12-13",
+    "checkOut": "2025-12-18",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-99",
     "guestId": "g33",
-    "checkIn": "2025-04-16",
-    "checkOut": "2025-04-21",
-    "guestsNumber": 3
+    "checkIn": "2025-12-14",
+    "checkOut": "2025-12-19",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-100",
     "guestId": "g34",
-    "checkIn": "2025-04-17",
-    "checkOut": "2025-04-22",
-    "guestsNumber": 3
+    "checkIn": "2025-12-15",
+    "checkOut": "2025-12-20",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-101",
     "guestId": "g34",
-    "checkIn": "2025-04-18",
-    "checkOut": "2025-04-23",
-    "guestsNumber": 2
+    "checkIn": "2025-12-16",
+    "checkOut": "2025-12-21",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-102",
     "guestId": "g34",
-    "checkIn": "2025-04-19",
-    "checkOut": "2025-04-24",
-    "guestsNumber": 3
+    "checkIn": "2025-12-17",
+    "checkOut": "2025-12-22",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-103",
     "guestId": "g35",
-    "checkIn": "2025-04-20",
-    "checkOut": "2025-04-25",
+    "checkIn": "2025-12-18",
+    "checkOut": "2025-12-23",
     "guestsNumber": 3
   },
   {
     "bookingId": "ID-104",
     "guestId": "g35",
-    "checkIn": "2025-04-21",
-    "checkOut": "2025-04-26",
-    "guestsNumber": 3
+    "checkIn": "2025-12-19",
+    "checkOut": "2025-12-24",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-105",
     "guestId": "g35",
-    "checkIn": "2025-04-22",
-    "checkOut": "2025-04-27",
-    "guestsNumber": 1
+    "checkIn": "2025-12-20",
+    "checkOut": "2025-12-25",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-106",
     "guestId": "g36",
-    "checkIn": "2025-04-23",
-    "checkOut": "2025-04-28",
+    "checkIn": "2025-12-21",
+    "checkOut": "2025-12-26",
     "guestsNumber": 4
   },
   {
     "bookingId": "ID-107",
     "guestId": "g36",
-    "checkIn": "2025-04-24",
-    "checkOut": "2025-04-29",
-    "guestsNumber": 3
+    "checkIn": "2025-12-22",
+    "checkOut": "2025-12-27",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-108",
     "guestId": "g36",
-    "checkIn": "2025-04-25",
-    "checkOut": "2025-04-30",
-    "guestsNumber": 4
+    "checkIn": "2025-12-23",
+    "checkOut": "2025-12-28",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-109",
     "guestId": "g37",
-    "checkIn": "2025-04-26",
-    "checkOut": "2025-04-31",
-    "guestsNumber": 3
+    "checkIn": "2025-12-24",
+    "checkOut": "2025-12-29",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-110",
     "guestId": "g37",
-    "checkIn": "2025-04-27",
-    "checkOut": "2025-04-32",
+    "checkIn": "2025-12-25",
+    "checkOut": "2025-12-30",
     "guestsNumber": 2
   },
   {
     "bookingId": "ID-111",
     "guestId": "g37",
-    "checkIn": "2025-04-28",
-    "checkOut": "2025-04-33",
+    "checkIn": "2025-12-26",
+    "checkOut": "2025-12-31",
     "guestsNumber": 2
   },
   {
     "bookingId": "ID-112",
     "guestId": "g38",
-    "checkIn": "2025-04-01",
-    "checkOut": "2025-04-06",
-    "guestsNumber": 2
+    "checkIn": "2025-12-27",
+    "checkOut": "2026-01-01",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-113",
     "guestId": "g38",
-    "checkIn": "2025-04-02",
-    "checkOut": "2025-04-07",
-    "guestsNumber": 1
+    "checkIn": "2025-12-28",
+    "checkOut": "2026-01-02",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-114",
     "guestId": "g38",
-    "checkIn": "2025-04-03",
-    "checkOut": "2025-04-08",
-    "guestsNumber": 3
+    "checkIn": "2025-12-29",
+    "checkOut": "2026-01-03",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-115",
     "guestId": "g39",
-    "checkIn": "2025-04-04",
-    "checkOut": "2025-04-09",
-    "guestsNumber": 3
+    "checkIn": "2025-12-30",
+    "checkOut": "2026-01-04",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-116",
     "guestId": "g39",
-    "checkIn": "2025-04-05",
-    "checkOut": "2025-04-10",
-    "guestsNumber": 4
+    "checkIn": "2025-12-31",
+    "checkOut": "2026-01-05",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-117",
     "guestId": "g39",
-    "checkIn": "2025-04-06",
-    "checkOut": "2025-04-11",
-    "guestsNumber": 3
+    "checkIn": "2026-01-01",
+    "checkOut": "2026-01-06",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-118",
     "guestId": "g40",
-    "checkIn": "2025-04-07",
-    "checkOut": "2025-04-12",
-    "guestsNumber": 2
+    "checkIn": "2026-01-02",
+    "checkOut": "2026-01-07",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-119",
     "guestId": "g40",
-    "checkIn": "2025-04-08",
-    "checkOut": "2025-04-13",
-    "guestsNumber": 2
+    "checkIn": "2026-01-03",
+    "checkOut": "2026-01-08",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-120",
     "guestId": "g40",
-    "checkIn": "2025-05-09",
-    "checkOut": "2025-05-14",
-    "guestsNumber": 4
+    "checkIn": "2025-11-05",
+    "checkOut": "2025-11-10",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-121",
     "guestId": "g41",
-    "checkIn": "2025-05-10",
-    "checkOut": "2025-05-15",
-    "guestsNumber": 3
+    "checkIn": "2025-11-06",
+    "checkOut": "2025-11-11",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-122",
     "guestId": "g41",
-    "checkIn": "2025-05-11",
-    "checkOut": "2025-05-16",
-    "guestsNumber": 1
+    "checkIn": "2025-11-07",
+    "checkOut": "2025-11-12",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-123",
     "guestId": "g41",
-    "checkIn": "2025-05-12",
-    "checkOut": "2025-05-17",
-    "guestsNumber": 1
+    "checkIn": "2025-11-08",
+    "checkOut": "2025-11-13",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-124",
     "guestId": "g42",
-    "checkIn": "2025-05-13",
-    "checkOut": "2025-05-18",
-    "guestsNumber": 2
+    "checkIn": "2025-11-09",
+    "checkOut": "2025-11-14",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-125",
     "guestId": "g42",
-    "checkIn": "2025-05-14",
-    "checkOut": "2025-05-19",
-    "guestsNumber": 2
+    "checkIn": "2025-11-10",
+    "checkOut": "2025-11-15",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-126",
     "guestId": "g42",
-    "checkIn": "2025-05-15",
-    "checkOut": "2025-05-20",
-    "guestsNumber": 1
+    "checkIn": "2025-11-11",
+    "checkOut": "2025-11-16",
+    "guestsNumber": 4
   },
   {
     "bookingId": "ID-127",
     "guestId": "g43",
-    "checkIn": "2025-05-16",
-    "checkOut": "2025-05-21",
-    "guestsNumber": 4
+    "checkIn": "2025-11-12",
+    "checkOut": "2025-11-17",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-128",
     "guestId": "g43",
-    "checkIn": "2025-05-17",
-    "checkOut": "2025-05-22",
-    "guestsNumber": 4
+    "checkIn": "2025-11-13",
+    "checkOut": "2025-11-18",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-129",
     "guestId": "g43",
-    "checkIn": "2025-05-18",
-    "checkOut": "2025-05-23",
-    "guestsNumber": 1
+    "checkIn": "2025-11-14",
+    "checkOut": "2025-11-19",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-130",
     "guestId": "g44",
-    "checkIn": "2025-05-19",
-    "checkOut": "2025-05-24",
+    "checkIn": "2025-11-15",
+    "checkOut": "2025-11-20",
     "guestsNumber": 4
   },
   {
     "bookingId": "ID-131",
     "guestId": "g44",
-    "checkIn": "2025-05-20",
-    "checkOut": "2025-05-25",
-    "guestsNumber": 3
+    "checkIn": "2025-11-16",
+    "checkOut": "2025-11-21",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-132",
     "guestId": "g44",
-    "checkIn": "2025-05-21",
-    "checkOut": "2025-05-26",
-    "guestsNumber": 3
+    "checkIn": "2025-11-17",
+    "checkOut": "2025-11-22",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-133",
     "guestId": "g45",
-    "checkIn": "2025-05-22",
-    "checkOut": "2025-05-27",
+    "checkIn": "2025-11-18",
+    "checkOut": "2025-11-23",
     "guestsNumber": 1
   },
   {
     "bookingId": "ID-134",
     "guestId": "g45",
-    "checkIn": "2025-05-23",
-    "checkOut": "2025-05-28",
-    "guestsNumber": 4
+    "checkIn": "2025-11-19",
+    "checkOut": "2025-11-24",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-135",
     "guestId": "g45",
-    "checkIn": "2025-05-24",
-    "checkOut": "2025-05-29",
+    "checkIn": "2025-11-20",
+    "checkOut": "2025-11-25",
     "guestsNumber": 1
   },
   {
     "bookingId": "ID-136",
     "guestId": "g46",
-    "checkIn": "2025-05-25",
-    "checkOut": "2025-05-30",
+    "checkIn": "2025-11-21",
+    "checkOut": "2025-11-26",
     "guestsNumber": 4
   },
   {
     "bookingId": "ID-137",
     "guestId": "g46",
-    "checkIn": "2025-05-26",
-    "checkOut": "2025-05-31",
+    "checkIn": "2025-11-22",
+    "checkOut": "2025-11-27",
     "guestsNumber": 2
   },
   {
     "bookingId": "ID-138",
     "guestId": "g46",
-    "checkIn": "2025-05-27",
-    "checkOut": "2025-05-32",
-    "guestsNumber": 1
+    "checkIn": "2025-11-23",
+    "checkOut": "2025-11-28",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-139",
     "guestId": "g47",
-    "checkIn": "2025-05-28",
-    "checkOut": "2025-05-33",
+    "checkIn": "2025-11-24",
+    "checkOut": "2025-11-29",
     "guestsNumber": 2
   },
   {
     "bookingId": "ID-140",
     "guestId": "g47",
-    "checkIn": "2025-05-01",
-    "checkOut": "2025-05-06",
-    "guestsNumber": 2
+    "checkIn": "2025-11-25",
+    "checkOut": "2025-11-30",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-141",
     "guestId": "g47",
-    "checkIn": "2025-05-02",
-    "checkOut": "2025-05-07",
-    "guestsNumber": 2
+    "checkIn": "2025-11-26",
+    "checkOut": "2025-12-01",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-142",
     "guestId": "g48",
-    "checkIn": "2025-05-03",
-    "checkOut": "2025-05-08",
-    "guestsNumber": 4
+    "checkIn": "2025-11-27",
+    "checkOut": "2025-12-02",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-143",
     "guestId": "g48",
-    "checkIn": "2025-05-04",
-    "checkOut": "2025-05-09",
+    "checkIn": "2025-11-28",
+    "checkOut": "2025-12-03",
     "guestsNumber": 1
   },
   {
     "bookingId": "ID-144",
     "guestId": "g48",
-    "checkIn": "2025-05-05",
-    "checkOut": "2025-05-10",
-    "guestsNumber": 1
+    "checkIn": "2025-11-29",
+    "checkOut": "2025-12-04",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-145",
     "guestId": "g49",
-    "checkIn": "2025-05-06",
-    "checkOut": "2025-05-11",
+    "checkIn": "2025-11-30",
+    "checkOut": "2025-12-05",
     "guestsNumber": 1
   },
   {
     "bookingId": "ID-146",
     "guestId": "g49",
-    "checkIn": "2025-05-07",
-    "checkOut": "2025-05-12",
-    "guestsNumber": 3
+    "checkIn": "2025-12-01",
+    "checkOut": "2025-12-06",
+    "guestsNumber": 2
   },
   {
     "bookingId": "ID-147",
     "guestId": "g49",
-    "checkIn": "2025-05-08",
-    "checkOut": "2025-05-13",
+    "checkIn": "2025-12-02",
+    "checkOut": "2025-12-07",
     "guestsNumber": 1
   },
   {
     "bookingId": "ID-148",
     "guestId": "g50",
-    "checkIn": "2025-05-09",
-    "checkOut": "2025-05-14",
-    "guestsNumber": 3
+    "checkIn": "2025-12-03",
+    "checkOut": "2025-12-08",
+    "guestsNumber": 1
   },
   {
     "bookingId": "ID-149",
     "guestId": "g50",
-    "checkIn": "2025-05-10",
-    "checkOut": "2025-05-15",
-    "guestsNumber": 2
+    "checkIn": "2025-12-04",
+    "checkOut": "2025-12-09",
+    "guestsNumber": 3
   },
   {
     "bookingId": "ID-150",
     "guestId": "g50",
-    "checkIn": "2025-06-11",
-    "checkOut": "2025-06-16",
-    "guestsNumber": 3
+    "checkIn": "2025-12-05",
+    "checkOut": "2025-12-10",
+    "guestsNumber": 4
   }
 ]

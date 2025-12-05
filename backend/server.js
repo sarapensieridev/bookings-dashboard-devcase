@@ -2,7 +2,7 @@
 
 const express = require("express");
 const cors = require("cors");
-const { getBookings } = require("./lambda");
+const { getBookings } = require("./getBookings");
 
 const app = express();
 
