@@ -39,19 +39,19 @@ git clone <repository-url>
 
 Install dependencies:
 
-# Install root dependencies
+### Install root dependencies
 ```bash
 npm install
 ```
 
-# Install backend dependencies
+### Install backend dependencies
 ```bash
 cd backend
 npm install
 cd ..
 ```
 
-# Install frontend dependencies
+### Install frontend dependencies
 ```bash
 cd frontend
 npm install
