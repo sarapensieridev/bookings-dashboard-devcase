@@ -1,8 +1,8 @@
-import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
-import axios from "axios";
+import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
+import axios from 'axios';
 
 export const fetchBookings = createAsyncThunk(
-  "bookings/fetch",
+  'bookings/fetch',
   async (token, { getState }) => {
     const pageSize = 50;  // small to test pagination
     const params = { pageSize };
@@ -10,7 +10,7 @@ export const fetchBookings = createAsyncThunk(
     if (token) {
       params.nextPageToken = token;
     }
-    const response = await axios.get("http://localhost:4000/getBookings", {
+    const response = await axios.get('http://localhost:4000/getBookings', {
       params
     });
     return response.data;
@@ -18,7 +18,7 @@ export const fetchBookings = createAsyncThunk(
 );
 
 const bookingsSlice = createSlice({
-  name: "bookings",
+  name: 'bookings',
   initialState: {
     items: [],
     nextPageToken: null,

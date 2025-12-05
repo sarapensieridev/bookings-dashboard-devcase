@@ -1,6 +1,6 @@
 // Simulating Lambda
-const dynamo = require("./dynamo");
-require("dotenv").config();
+const dynamo = require('./dynamo');
+require('dotenv').config();
 
 exports.getBookings = async (event) => {
   const pageSize = Number(event.queryStringParameters?.pageSize || 50);
@@ -19,7 +19,7 @@ exports.getBookings = async (event) => {
 
   if (nextPageToken) {
     exclusiveStartKey = JSON.parse(
-      Buffer.from(nextPageToken, "base64").toString()
+      Buffer.from(nextPageToken, 'base64').toString()
     );
   }
 
@@ -28,13 +28,13 @@ exports.getBookings = async (event) => {
     TableName: process.env.BOOKINGS_TABLE,
     Limit: pageSize,
     ExclusiveStartKey: exclusiveStartKey,
-    FilterExpression: "#checkIn BETWEEN :start AND :end",
+    FilterExpression: '#checkIn BETWEEN :start AND :end',
     ExpressionAttributeNames: {
-      "#checkIn": "checkIn",
+      '#checkIn': 'checkIn',
     },
     ExpressionAttributeValues: {
-      ":start": startDate.toISOString().split("T")[0], // Format: YYYY-MM-DD
-      ":end": endDate.toISOString().split("T")[0],
+      ':start': startDate.toISOString().split('T')[0], // Format: YYYY-MM-DD
+      ':end': endDate.toISOString().split('T')[0],
     },
   };
 
@@ -56,8 +56,8 @@ exports.getBookings = async (event) => {
 
   // Sort by bookingId
   bookings.sort((a, b) => {
-    const numA = parseInt(a.bookingId.replace(/\D/g, "")) || 0;
-    const numB = parseInt(b.bookingId.replace(/\D/g, "")) || 0;
+    const numA = parseInt(a.bookingId.replace(/\D/g, '')) || 0;
+    const numB = parseInt(b.bookingId.replace(/\D/g, '')) || 0;
     return numA - numB;
   });
 
@@ -66,7 +66,7 @@ exports.getBookings = async (event) => {
   if (bookingsResult.LastEvaluatedKey) {
     returnToken = Buffer.from(
       JSON.stringify(bookingsResult.LastEvaluatedKey)
-    ).toString("base64");
+    ).toString('base64');
   }
 
   const responseBody = JSON.stringify({
