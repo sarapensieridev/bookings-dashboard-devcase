@@ -60,7 +60,7 @@ cd ..
 
 ### 2. Rename .env.dist file
 
-Rename the file `.env.dist` to `.env` to access to it.
+In the backend folder, there is the file `.env.dist`: rename it to `.env` to allow the system to use the environment values.
 
 The .env file has to contain this kind of structure:
 
